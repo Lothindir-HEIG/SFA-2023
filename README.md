@@ -18,6 +18,7 @@ Challenges et labos du cours de _Side-Channel and Fault Attacks_ de la HEIG-VD. 
 
 ### SCA
 
+- [x] [RSA-1](./RSA-1/README.md) (100)
 - [x] [SCA-1](./SCA-1/README.md) (100)
 - [x] [SCA-2](./SCA-2/README.md) (100)
 - [x] [SCA-3](./SCA-3/README.md) (100)
