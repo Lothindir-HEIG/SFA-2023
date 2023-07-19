@@ -4,3 +4,6 @@
 [submodule "Lab-3/docs"]
 	path = Lab-3/docs
 	url = https://github.com/Lothindir/pandoc-heig.git
+[submodule "Lab-2/docs"]
+	path = Lab-2/docs
+	url = https://github.com/Lothindir/pandoc-heig.git
